@@ -1,0 +1,9 @@
+C:\Users\Omistaja\source\repos\Axolotl\Axolotl\bin\Debug\Axolotl.exe.config
+C:\Users\Omistaja\source\repos\Axolotl\Axolotl\bin\Debug\Axolotl.exe
+C:\Users\Omistaja\source\repos\Axolotl\Axolotl\bin\Debug\Axolotl.pdb
+C:\Users\Omistaja\source\repos\Axolotl\Axolotl\obj\Debug\Axolotl.Form1.resources
+C:\Users\Omistaja\source\repos\Axolotl\Axolotl\obj\Debug\Axolotl.Properties.Resources.resources
+C:\Users\Omistaja\source\repos\Axolotl\Axolotl\obj\Debug\Axolotl.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\Axolotl\Axolotl\obj\Debug\Axolotl.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Axolotl\Axolotl\obj\Debug\Axolotl.exe
+C:\Users\Omistaja\source\repos\Axolotl\Axolotl\obj\Debug\Axolotl.pdb
